@@ -70,4 +70,3 @@ I gathered these throughout my course work and online training courses.
 * Authors: [Stack Overflow Documentation](https://archive.org/details/documentation-dump.7z "Stack Overflow Documentation") / web@petercv.com
 * Source: [GoalKicker.com](https://goalkicker.com/ "GoalKicker.com")
 
-
