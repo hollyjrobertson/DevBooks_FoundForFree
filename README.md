@@ -1,7 +1,7 @@
 # DevBooks I Found For Free
 A collection of software / developer books that were for free for download.
 
-I gathered these throughout my course work and online training courses. 
+I gathered these throughout my course work and online training courses.   
 Please feel free to download and/or branch and add your own books.
 
 # Books Available:
